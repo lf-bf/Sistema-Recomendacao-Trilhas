@@ -26,12 +26,12 @@ perfil(inteligencia_artificial, matematica_estatistica, 5).
 perfil(inteligencia_artificial, logica_programacao,    4).
 perfil(inteligencia_artificial, python,                2).
 perfil(inteligencia_artificial, machine_learning,      3).
-perfil(inteligencia_artificial, comunicacao_colaboracao, 1).
+perfil(inteligencia_artificial, deep_learning,         1).
 
 % Ciencia de Dados
 perfil(ciencia_de_dados, analise_dados,         5).
 perfil(ciencia_de_dados, sql_bancos,            4).
-perfil(ciencia_de_dados, python,                3).
+perfil(ciencia_de_dados, frameworks_de_python,  3).
 perfil(ciencia_de_dados, matematica_estatistica,2).
 perfil(ciencia_de_dados, gestao_projetos,       1).
 
@@ -51,10 +51,10 @@ perfil(seguranca_da_informacao, testes_qualidade,    1).
 
 % Redes e Infraestrutura
 perfil(redes_e_infraestrutura, redes_sistemas,       5).
-perfil(redes_e_infraestrutura, sistemas_operacionais,4).
+perfil(redes_e_infraestrutura, servidores,           4).
 perfil(redes_e_infraestrutura, devops_automacao,     3).
 perfil(redes_e_infraestrutura, cloud_arquitetura,    2).
-perfil(redes_e_infraestrutura, comunicacao_colaboracao, 1).
+perfil(redes_e_infraestrutura, sistemas_distribuidos, 1).
 
 % --------------------------
 % Perguntas (ID, Texto, Caracteristica)
@@ -66,19 +66,19 @@ pergunta(1,  'Voce tem afinidade com matematica e estatistica?',            mate
 pergunta(2,  'Voce gosta de resolver problemas logicos de programacao?',    logica_programacao).
 pergunta(3,  'Voce programa (ou quer programar) frequentemente em Python?', python).
 pergunta(4,  'Voce se interessa por aprendizado de maquina/IA?',            machine_learning).
-pergunta(5,  'Voce se sente confortavel colaborando e comunicando solucoes?', comunicacao_colaboracao).
+pergunta(5,  'Voce tem interesse em saber mais sobre modelos profundos de Machine Learning?', deep_learning).
 
 % Ciencia de Dados
 pergunta(6,  'Voce tem interesse em analisar dados e extrair insights?',    analise_dados).
 pergunta(7,  'Voce gosta de trabalhar com bancos de dados e SQL?',          sql_bancos).
-pergunta(8,  'Voce utiliza ou pretende utilizar Python para analise de dados?', python).
+pergunta(8,  'Voce gostaria de utilizar/aprender python e seus frameworks para analise de dados?', frameworks_de_python).
 pergunta(9,  'Voce tem facilidade com matematica para analise estatistica?', matematica_estatistica).
 pergunta(10, 'Voce gosta de planejar tarefas e prazos (gestao de projetos)?', gestao_projetos).
 
 % Desenvolvimento Web
 pergunta(11, 'Voce gosta de criar interfaces e layouts (front-end)?',       frontend_web).
 pergunta(12, 'Voce prefere logica de servidor, APIs e back-end?',           backend_web).
-pergunta(13, 'Voce tem interesse em usar TypeScript?',     typescript).
+pergunta(13, 'Voce tem interesse em usar TypeScript?',                      typescript).
 pergunta(14, 'Voce curte pensar na experiencia do usuario (UX/UI)?',        ux_ui).
 pergunta(15, 'Voce curte design visual/estetica?',                          design_visual).
 
@@ -91,7 +91,7 @@ pergunta(20, 'Voce se preocupa com testes, qualidade e manutencao?',        test
 
 % Redes e Infraestrutura
 pergunta(21, 'Voce gosta de administrar redes de computadores?',            redes_sistemas).
-pergunta(22, 'Voce tem interesse em sistemas operacionais e configuracao?', sistemas_operacionais).
+pergunta(22, 'Voce tem interesse configurar e mexer com servidores?', servidores).
 pergunta(23, 'Voce gosta de automacao, CI/CD e infraestrutura como codigo?', devops_automacao).
 pergunta(24, 'Voce tem interesse em arquiteturas e servicos de nuvem?',     cloud_arquitetura).
-pergunta(25, 'Voce se sente confortavel colaborando tecnicamente em equipes?', comunicacao_colaboracao).
+pergunta(25, 'Voce tem interesse em trabalhar com sistemas ou arquitetura de sistemas distribuidos?', sistemas_distribuidos).
