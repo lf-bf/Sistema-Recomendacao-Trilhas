@@ -1,0 +1,26 @@
+% Perfil: Aluno voltado para IA
+resposta(1, s).
+resposta(2, s).
+resposta(3, s).
+resposta(4, s).
+resposta(5, s).
+resposta(6, n).
+resposta(7, n).
+resposta(8, n).
+resposta(9, n).
+resposta(10, n).
+resposta(11, n).
+resposta(12, n).
+resposta(13, n).
+resposta(14, n).
+resposta(15, n).
+resposta(16, n).
+resposta(17, n).
+resposta(18, n).
+resposta(19, n).
+resposta(20, n).
+resposta(21, n).
+resposta(22, n).
+resposta(23, n).
+resposta(24, n).
+resposta(25, n).
