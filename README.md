@@ -73,3 +73,16 @@ O projeto inclui 3 perfis de teste pré-definidos para validar o sistema:
 3. **Ranking**: As trilhas são ordenadas pela pontuação total
 4. **Justificativa**: Mostra as habilidades que mais contribuíram para a recomendação
 
+## Informações Acadêmicas
+
+**Instituição:** PUCPR (Pontifícia Universidade Católica do Paraná)  
+**Disciplina:** Programação Lógica e Funcional  
+**Professor:** Frank Alcantara  
+
+### Alunos
+
+- **Bernardo Muller** - [@zzMuller](https://github.com/zzMuller)
+- **João Pedro Cochek** - [@joao-giovannoni](https://github.com/joao-giovannoni)
+- **Luis Felipe Tozzi** - [@LuisTozzi1](https://github.com/LuisTozzi1)
+- **Luiz Fernando Brasão** - [@lf-bf](https://github.com/lf-bf)
+
